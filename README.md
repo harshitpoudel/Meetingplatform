@@ -164,3 +164,19 @@ Check Meetings Page + Calendar Page
 logout
 
 
+Ideas for Improvement
+
+Google Sign-In / proper Auth
+
+Time picker for meeting scheduling
+
+Push notifications for new invites
+
+Avatars + improved UI polish
+
+Firestore security rules
+
+Unit & integration tests
+
+not much though they could have been done
+
