@@ -14,7 +14,7 @@ Users can:
 - View meetings in a list or on a calendar
 - Seed demo users, invitations, and meetings for instant testing
 
-## ✨ Features
+## Features
 
 - **Authentication**
   - Email/password login (or random account if left blank)
@@ -46,7 +46,7 @@ Users can:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Framework:** Flutter
 - **Backend:** Firebase (Auth + Firestore)
@@ -56,7 +56,7 @@ Users can:
 
 ---
 
-## ⚡ Setup Instructions
+## Setup Instructions
 
 git clone https://github.com/harshitpoudel/meetingplatform.git
 cd meetingplatform
